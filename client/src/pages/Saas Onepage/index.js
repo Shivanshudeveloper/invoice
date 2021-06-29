@@ -118,18 +118,18 @@ class SaasOnepage extends Component {
           <Process />
 
           {/* block container */}
-          <BlockContainer />
+          {/* <BlockContainer /> */}
 
           {/* modal Video */}
-          <ModalVideoSection />
+          {/* <ModalVideoSection /> */}
         </section>
 
         {/* shape */}
         <Shape />
 
-        <section className="section bg-light" id="testimonial">
+        <section hidden className="section bg-light" id="testimonial">
           {/* testimonials */}
-          <Testimonials />
+          {/* <Testimonials /> */}
 
           <Container className="pt-5">
             {/* partners */}
@@ -141,7 +141,7 @@ class SaasOnepage extends Component {
         <Price />
 
         {/* team members */}
-        <Team />
+        {/* <Team /> */}
 
         <section className="section pb-0" id="contact">
           {/* contact us */}

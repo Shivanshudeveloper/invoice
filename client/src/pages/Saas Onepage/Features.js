@@ -12,44 +12,44 @@ class Features extends Component {
       {
         id: 1,
         icon: 'uil uil-edit-alt h1 text-primary',
-        title: "Design & Development",
+        title: "INVOICE GENERATOR",
         description:
-          "Nisi aenean vulputate eleifend tellus vitae eleifend enim a Aliquam aenean elementum semper.",
+          "Use the point and click payment page builder to create invoices without knowing how to program or code or using any technical skills at all!",
       },
       {
         id: 2,
         icon: 'uil uil-vector-square h1 text-primary',
-        title: "Management & Marketing",
+        title: "ELECTRONIC INVOICING",
         description:
-          "Allegedly, a Latin scholar established the origin of the text by established compiling unusual word.",
+          "No more chasing payments or trying to collect from your customers. Send payment links along with your invoices to collect payment instally online!",
       },
       {
         id: 3,
         icon: 'uil uil-file-search-alt h1 text-primary',
-        title: "Stratagy & Research",
+        title: "SECURE PAYMENTS",
         description:
-          "It seems that only fragments of the original text remain in the Lorem Ipsum fragments texts used today.",
+          "All payments are made through a secure API and PCI compliant using industry leading 256-bit SSL certificates!",
       },
       {
         id: 4,
         icon: 'uil uil-airplay h1 text-primary',
-        title: "Easy To Use",
+        title: "RECURRING BILLING",
         description:
-          "Nisi aenean vulputate eleifend tellus vitae eleifend enim a Aliquam aenean elementum semper.",
+          "Set up recuring payment schedules for any product or service and automatically receive payments each month!",
       },
       {
         id: 5,
         icon: 'uil uil-calendar-alt h1 text-primary',
-        title: "Daily Reports",
+        title: "MOBILE RESPONSIVE PAGES",
         description:
-          "Allegedly, a Latin scholar established the origin of the text by compiling unusual established word.",
+          "Send professionally designed, mobile responsive payment pages to your customers to instantly receive payment online.",
       },
       {
         id: 6,
         icon: 'uil uil-clock h1 text-primary',
-        title: "Real Time Zone",
+        title: "SECURE UPDATES",
         description:
-          "It seems that only fragments of the original text remain in the Lorem Ipsum texts used fragments today.",
+          "Unlimited feature updates with the PRO membership. PCI certified, secure payment pages and encrypted and protected by 256-SSL Encryption.",
       },
     ],
   };

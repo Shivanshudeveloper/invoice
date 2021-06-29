@@ -35,7 +35,7 @@ class Process extends Component {
                   data-aos="fade-up"
                   data-aos-duration="1000"
                 >
-                  Seamless Operation via Smart SEO
+                  PAYMENT COLLECTIONS LIFE-CYCLE WORKFLOW
                 </h4>
                 <p
                   className="text-muted"

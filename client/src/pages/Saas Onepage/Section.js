@@ -23,17 +23,15 @@ class Section extends Component {
                     data-aos="fade-up"
                     data-aos-duration="1000"
                   >
-                    Website Load Faster, and Grow Your{" "}
-                    <span className="text-primary">SEO</span>
+                    Manage Incvoices. Get Paid Fast! with buit-in Payment Collections
                   </h1>
                   <p
                     className="para-desc mx-auto text-muted"
                     data-aos="fade-up"
                     data-aos-duration="1400"
                   >
-                    Launch your campaign and benefit from our expertise on
-                    designing and managing conversion centered bootstrap v5 html
-                    page.
+                    Create, import and manage invoices in easy steps, with SMS & email link to your
+                    customer and get paid instantly!
                   </p>
                   <div
                     className="text-center subcribe-form mt-4 pt-2"
